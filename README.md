@@ -1,7 +1,7 @@
 # Kare-Kod-Donusturucu
-Bu uygulama  byte (link ve tüm karakterler), num(sayısal ve karakterler) ve alpha_num(sadece sayılar) olarak karekod oluşturur. 
+Bu uygulama byte (link ve tüm karakterler), num(sayısal ve karakterler) ve alpha_num(sadece sayılar) olarak karekod oluşturur. 
 
-#sürüm-V0.0.58 ALPHA
+#sürüm-V0.0.58 ALPHA - C# dili ile yazılmıştır.
 
 1- Bu linkten 'https://www.mediafire.com/file/wwmfnr6sprax9cm/Setup.exe/file' setup dosyasını indirip çalıştırın.
 

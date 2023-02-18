@@ -5,7 +5,9 @@ Bu uygulama  byte (link ve tüm karakterler), num(sayısal ve karakterler) ve al
 
 1- Eklemiş olduğum setup dosyasını çalıştırarak porgramı kurun.
 
-2- Kurulum tamamlanınca masaüstüne gelen x32 ve x64 olanlardan bilgisayarınız için uygun olanı çalıştırınız.
+2- Kurulumda hedef klasör sayfasına gelince kendiniz bir klasör belirleyip yada oluşturup kuruluma devam ediniz.
+
+3- Kurulum tamamlanınca masaüstüne gelen x32 ve x64 olanlardan bilgisayarınız için uygun olanı çalıştırınız.
 
 
 İyi Kullanımlar :)

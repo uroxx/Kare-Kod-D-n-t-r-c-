@@ -3,11 +3,11 @@ Bu uygulama  byte (link ve tüm karakterler), num(sayısal ve karakterler) ve al
 
 #sürüm-V0.0.58 ALPHA
 
-1- Eklemiş olduğum setup dosyasını çalıştırarak porgramı kurun.
+1- Eklemiş olduğum setup dosyasını çalıştırın.
 
-2- Kurulumda hedef klasör sayfasına gelince kendiniz bir klasör belirleyip yada oluşturup kuruluma devam ediniz.
+2- Kurulumda hedef klasör sayfasına gelince "Hedef Klasör" kısmına `C:\QR KOD\` yazıp kuruluma devam edin.
 
-3- Kurulum tamamlanınca masaüstüne gelen x32 ve x64 olanlardan bilgisayarınız için uygun olanı çalıştırınız.
+3- Kurulum tamamlanınca masaüstüne gelen x32 ve x64 olanlardan bilgisayarınız için uygun olanı çalıştırın.
 
 
 İyi Kullanımlar :)

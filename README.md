@@ -13,3 +13,6 @@ Bu uygulama  byte (link ve tüm karakterler), num(sayısal ve karakterler) ve al
 by Urox 
 
 #lenux
+
+
+Eğer bir sorun olursa instagram/o7.bruhszaszx

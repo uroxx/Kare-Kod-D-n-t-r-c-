@@ -3,7 +3,7 @@ Bu uygulama  byte (link ve tüm karakterler), num(sayısal ve karakterler) ve al
 
 #sürüm-V0.0.58 ALPHA
 
-1- Bu linkten '' setup dosyasını indirip çalıştırın.
+1- Bu linkten 'https://www.mediafire.com/file/wwmfnr6sprax9cm/Setup.exe/file' setup dosyasını indirip çalıştırın.
 
 2- Kurulumda hedef klasör sayfasına gelince "Hedef Klasör" kısmına `C:\QR KOD\` yazıp kuruluma devam edin.
 

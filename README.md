@@ -22,7 +22,7 @@ Web Sitem: 'https://uroxx-code.glitch.me/'
 --------------------------------------------------------------------
 V 0.0.60 
 
--Alpha_Num bölümü için iyileştirmeler ve düzenlemeler eklendi.
--Setup.exe için küçük çaplı değişiklikler eklendi.
+Alpha_Num bölümü için iyileştirmeler ve düzenlemeler eklendi.
+Setup.exe için küçük çaplı değişiklikler eklendi.
 
 --------------------------------------------------------------------

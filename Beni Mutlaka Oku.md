@@ -20,7 +20,7 @@ Ve hepsi bu kadar...
 --------------------------------------------------------------------
 Eğer bir sorun olursa instagram/o7.bruhszaszx
 
-- Web Sitem:- https://uroxx-code.gljitch.me/
+- Web Sitem:- https://uroxx-code.glitch.me/
 --------------------------------------------------------------------
 Güncelleme Notları
 --------------------------------------------------------------------

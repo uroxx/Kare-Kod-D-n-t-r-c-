@@ -4,7 +4,7 @@ Bu uygulama Bit Codex Mod, Karakter Numarasal Mod, Numarasal Mod olarak çeşitl
 --------------------------------------------------------------------
 #sürüm-V0.0.66 ALPHA - C# dili ile yazılmıştır.
 --------------------------------------------------------------------
-1- Bu linkten '' QR Kod V0.0.66 - Kurulum isimli dosyayı indirip çalıştırın.
+1- Bu linkten 'https://www.mediafire.com/file/8ovu1xbzelb9nbh/QR+Kod+V0.0.66+-+Kurulum.exe/file' QR Kod V0.0.66 - Kurulum isimli dosyayı indirip çalıştırın.
 
 2- Kurulum tamamlanınca masaüstüne gelen kısayola çift tıklayıp uygulamayı açın.
 

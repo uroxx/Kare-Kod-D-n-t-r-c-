@@ -1,14 +1,14 @@
-# Kare-Kod-Donusturucu
+# QR Code Maker
 --------------------------------------------------------------------
-Bu uygulama Bit Codex Mod, Karakter Numarasal Mod, Numarasal Mod olarak çeşitli karekod oluşturur. (Ayrıntılı bilgi uygulamada var.)
+Bu uygulama Normal Mod, Normal ve Numarasal Mod, Numarasal Mod olarak çeşitli karekod oluşturur. (Ayrıntılı bilgi uygulamada var.)
 --------------------------------------------------------------------
-#sürüm-V0.0.66 ALPHA - C# dili ile yazılmıştır.
+#sürüm-V0.0.70 ALPHA - Program ve data dosyaları C# dili ile dll ve assets dosyaları C++ ile yazılmıştır.
 --------------------------------------------------------------------
-1- Bu linkten 'https://www.mediafire.com/file/8ovu1xbzelb9nbh/QR+Kod+V0.0.66+-+Kurulum.exe/file' QR Kod V0.0.66 - Kurulum isimli dosyayı indirip çalıştırın.
+1- Bu linkten 'https://www.mediafire.com/file/1z0060cn5yhnr1k/QR+Code+Maker+0.0.70+Setup.exe/file'  QR Code Maker 0.0.70 Setup isimli dosyayı indirip çalıştırın.
 
 2- Kurulum tamamlanınca masaüstüne gelen kısayola çift tıklayıp uygulamayı açın.
 
-3- Dönüştüreceğiniz karekoda göre mod türünü seçin.
+3- Dönüştürmek istediğiniz karekoda göre mod türünü seçin.
 
 4- Beyaz alana dönüştürmek istediğiniz sayı, metin yada karaktersel sayı içeriğini yazın
 
@@ -16,7 +16,7 @@ Bu uygulama Bit Codex Mod, Karakter Numarasal Mod, Numarasal Mod olarak çeşitl
 
 Ve hepsi bu kadar...
 --------------------------------------------------------------------
-İyi Kullanımlar :) - by Urox 
+İyi Kullanımlar :) - by uroxx
 --------------------------------------------------------------------
 Eğer bir sorun olursa instagram/o7.bruhszaszx
 
@@ -38,4 +38,12 @@ Güncelleme Notları
 - Sıklıkla karşılaşılan NetFramework hataları düzeltildi.
 - Bazı dll dosyaları güncellendi.
 - Kurulum dosyasında önemli güncellemeler ve değişiklikler yapıldı.
+--------------------------------------------------------------------
+# V 0.0.70
+
+-Hatalar düzeltildi.
+-Karekod oluşturma bilgisi yapılandırıldı.
+-Bazı dll dosyalarındaki hatalar düzeltildi.
+-Sorunların kaynağı olan traxy.dll dosyası kaldırılıp yerine hataları otomatik düzelten qr.resx.dll dosyası getirildi.
+-Kurulum dosyasında küçük değişiklikler yapıldı.
 --------------------------------------------------------------------

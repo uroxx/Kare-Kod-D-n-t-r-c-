@@ -48,4 +48,3 @@ Güncelleme Notları
 -Bazı dll dosyalarındaki hatalar düzeltildi.
 -Sorunların kaynağı olan traxy.dll dosyası kaldırılıp yerine hataları otomatik düzelten qr.resx.dll dosyası getirildi.
 -Kurulum dosyasında küçük değişiklikler yapıldı.
---------------------------------------------------------------------

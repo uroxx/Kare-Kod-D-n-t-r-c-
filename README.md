@@ -22,29 +22,5 @@ Ve hepsi bu kadar...
 --------------------------------------------------------------------
 Eğer bir sorun olursa instagram/o7.bruhszaszx
 
-Web Sitem:- https://uroxx-code.glitch.me/
+Web Sitem: https://uroxx-code.glitch.me/
 --------------------------------------------------------------------
-Güncelleme Notları
---------------------------------------------------------------------
-# V 0.0.60 
-
-- Alpha_Num bölümü için iyileştirmeler ve düzenlemeler eklendi.
-- Setup.exe için küçük çaplı değişiklikler eklendi.
---------------------------------------------------------------------
-# V 0.0.66
-
-- Mod türlerinde isim değişikliği yapıldı.
-- Mod türlerindeki çeşitli hatalar düzeltildi.
-- İkon güncellendi.
-- Modül değişikliklerindeki hatalar düzeltildi ve yeni bir modül eklendi.
-- Sıklıkla karşılaşılan NetFramework hataları düzeltildi.
-- Bazı dll dosyaları güncellendi.
-- Kurulum dosyasında önemli güncellemeler ve değişiklikler yapıldı.
---------------------------------------------------------------------
-# V 0.0.70
-
--Hatalar düzeltildi.
--Karekod oluşturma bilgisi yapılandırıldı.
--Bazı dll dosyalarındaki hatalar düzeltildi.
--Sorunların kaynağı olan traxy.dll dosyası kaldırılıp yerine hataları otomatik düzelten qr.resx.dll dosyası getirildi.
--Kurulum dosyasında küçük değişiklikler yapıldı.
